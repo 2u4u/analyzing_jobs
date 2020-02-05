@@ -1,0 +1,1422 @@
+[
+    {
+        "city": "Not set",
+        "state": "Remote",
+        "value": 87
+    },
+    {
+        "city": "New York",
+        "state": "NY",
+        "value": 39
+    },
+    {
+        "city": "San Francisco",
+        "state": "CA",
+        "value": 32
+    },
+    {
+        "city": "Boston",
+        "state": "MA",
+        "value": 15
+    },
+    {
+        "city": "Seattle",
+        "state": "WA",
+        "value": 14
+    },
+    {
+        "city": "Washington",
+        "state": "DC",
+        "value": 14
+    },
+    {
+        "city": "Denver",
+        "state": "CO",
+        "value": 13
+    },
+    {
+        "city": "Portland",
+        "state": "OR",
+        "value": 13
+    },
+    {
+        "city": "Chicago",
+        "state": "IL",
+        "value": 10
+    },
+    {
+        "city": "Austin",
+        "state": "TX",
+        "value": 10
+    },
+    {
+        "city": "Charlotte",
+        "state": "NC",
+        "value": 9
+    },
+    {
+        "city": "Los Angeles",
+        "state": "CA",
+        "value": 9
+    },
+    {
+        "city": "Houston",
+        "state": "TX",
+        "value": 9
+    },
+    {
+        "city": "Atlanta",
+        "state": "GA",
+        "value": 8
+    },
+    {
+        "city": "Irvine",
+        "state": "CA",
+        "value": 8
+    },
+    {
+        "city": "Dallas",
+        "state": "TX",
+        "value": 7
+    },
+    {
+        "city": "Sunnyvale",
+        "state": "CA",
+        "value": 7
+    },
+    {
+        "city": "Minneapolis",
+        "state": "MN",
+        "value": 6
+    },
+    {
+        "city": "Phoenix",
+        "state": "AZ",
+        "value": 6
+    },
+    {
+        "city": "Tampa",
+        "state": "FL",
+        "value": 6
+    },
+    {
+        "city": "Columbia",
+        "state": "MO",
+        "value": 6
+    },
+    {
+        "city": "Oakland",
+        "state": "CA",
+        "value": 6
+    },
+    {
+        "city": "San Jose",
+        "state": "CA",
+        "value": 6
+    },
+    {
+        "city": "San Diego",
+        "state": "CA",
+        "value": 6
+    },
+    {
+        "city": "Philadelphia",
+        "state": "PA",
+        "value": 5
+    },
+    {
+        "city": "Plano",
+        "state": "TX",
+        "value": 5
+    },
+    {
+        "city": "Miami",
+        "state": "FL",
+        "value": 5
+    },
+    {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "value": 5
+    },
+    {
+        "city": "Orlando",
+        "state": "FL",
+        "value": 5
+    },
+    {
+        "city": "Raleigh",
+        "state": "NC",
+        "value": 5
+    },
+    {
+        "city": "Arlington",
+        "state": "VA",
+        "value": 4
+    },
+    {
+        "city": "Mountain View",
+        "state": "CA",
+        "value": 4
+    },
+    {
+        "city": "Palo Alto",
+        "state": "CA",
+        "value": 4
+    },
+    {
+        "city": "Bellevue",
+        "state": "WA",
+        "value": 4
+    },
+    {
+        "city": "Indianapolis",
+        "state": "IN",
+        "value": 4
+    },
+    {
+        "city": "Reston",
+        "state": "VA",
+        "value": 4
+    },
+    {
+        "city": "Grand Rapids",
+        "state": "MI",
+        "value": 4
+    },
+    {
+        "city": "Cleveland",
+        "state": "OH",
+        "value": 3
+    },
+    {
+        "city": "Santa Clara",
+        "state": "CA",
+        "value": 3
+    },
+    {
+        "city": "Cincinnati",
+        "state": "OH",
+        "value": 3
+    },
+    {
+        "city": "Alexandria",
+        "state": "LA",
+        "value": 3
+    },
+    {
+        "city": "Brooklyn",
+        "state": "NY",
+        "value": 3
+    },
+    {
+        "city": "Rockville",
+        "state": "MD",
+        "value": 3
+    },
+    {
+        "city": "Fort Lauderdale",
+        "state": "FL",
+        "value": 3
+    },
+    {
+        "city": "Durham",
+        "state": "NC",
+        "value": 3
+    },
+    {
+        "city": "Edison",
+        "state": "NJ",
+        "value": 3
+    },
+    {
+        "city": "Baltimore",
+        "state": "MD",
+        "value": 3
+    },
+    {
+        "city": "Pleasanton",
+        "state": "CA",
+        "value": 3
+    },
+    {
+        "city": "New Orleans",
+        "state": "LA",
+        "value": 3
+    },
+    {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "value": 3
+    },
+    {
+        "city": "Santa Monica",
+        "state": "CA",
+        "value": 3
+    },
+    {
+        "city": "San Mateo",
+        "state": "CA",
+        "value": 3
+    },
+    {
+        "city": "Kansas City",
+        "state": "MO",
+        "value": 3
+    },
+    {
+        "city": "Boulder",
+        "state": "CO",
+        "value": 3
+    },
+    {
+        "city": "Newport Beach",
+        "state": "CA",
+        "value": 2
+    },
+    {
+        "city": "Dearborn",
+        "state": "MI",
+        "value": 2
+    },
+    {
+        "city": "Culver City",
+        "state": "CA",
+        "value": 2
+    },
+    {
+        "city": "Anaheim",
+        "state": "CA",
+        "value": 2
+    },
+    {
+        "city": "Bothell",
+        "state": "WA",
+        "value": 2
+    },
+    {
+        "city": "Milwaukee",
+        "state": "WI",
+        "value": 2
+    },
+    {
+        "city": "Cypress",
+        "state": "TX",
+        "value": 2
+    },
+    {
+        "city": "Birmingham",
+        "state": "MI",
+        "value": 2
+    },
+    {
+        "city": "Texas",
+        "state": "VT",
+        "value": 2
+    },
+    {
+        "city": "Fairfax",
+        "state": "VA",
+        "value": 2
+    },
+    {
+        "city": "Framingham",
+        "state": "MA",
+        "value": 2
+    },
+    {
+        "city": "Irving",
+        "state": "TX",
+        "value": 2
+    },
+    {
+        "city": "Troy",
+        "state": "MI",
+        "value": 2
+    },
+    {
+        "city": "Princeton",
+        "state": "NJ",
+        "value": 2
+    },
+    {
+        "city": "Fort Worth",
+        "state": "TX",
+        "value": 2
+    },
+    {
+        "city": "Ann Arbor",
+        "state": "MI",
+        "value": 2
+    },
+    {
+        "city": "Venice",
+        "state": "FL",
+        "value": 2
+    },
+    {
+        "city": "Richmond",
+        "state": "VA",
+        "value": 2
+    },
+    {
+        "city": "Bentonville",
+        "state": "AR",
+        "value": 2
+    },
+    {
+        "city": "Plantation",
+        "state": "FL",
+        "value": 2
+    },
+    {
+        "city": "Santa Barbara",
+        "state": "CA",
+        "value": 2
+    },
+    {
+        "city": "Memphis",
+        "state": "TN",
+        "value": 2
+    },
+    {
+        "city": "Chandler",
+        "state": "AZ",
+        "value": 2
+    },
+    {
+        "city": "Nashville",
+        "state": "TN",
+        "value": 2
+    },
+    {
+        "city": "Tucson",
+        "state": "AZ",
+        "value": 2
+    },
+    {
+        "city": "Hillsboro",
+        "state": "OR",
+        "value": 2
+    },
+    {
+        "city": "Manassas",
+        "state": "VA",
+        "value": 2
+    },
+    {
+        "city": "San Francisco Bay Area",
+        "state": "CA",
+        "value": 2
+    },
+    {
+        "city": "Vancouver",
+        "state": "WA",
+        "value": 2
+    },
+    {
+        "city": "San Antonio",
+        "state": "TX",
+        "value": 2
+    },
+    {
+        "city": "Buffalo",
+        "state": "NY",
+        "value": 2
+    },
+    {
+        "city": "Fremont",
+        "state": "CA",
+        "value": 2
+    },
+    {
+        "city": "Castle Rock",
+        "state": "CO",
+        "value": 2
+    },
+    {
+        "city": "Detroit",
+        "state": "MI",
+        "value": 2
+    },
+    {
+        "city": "Fayetteville",
+        "state": "NC",
+        "value": 2
+    },
+    {
+        "city": "Colorado Springs",
+        "state": "CO",
+        "value": 2
+    },
+    {
+        "city": "Louisville",
+        "state": "KY",
+        "value": 2
+    },
+    {
+        "city": "Campbell",
+        "state": "CA",
+        "value": 2
+    },
+    {
+        "city": "Somerville",
+        "state": "MA",
+        "value": 2
+    },
+    {
+        "city": "Piscataway",
+        "state": "NJ",
+        "value": 2
+    },
+    {
+        "city": "Broomfield",
+        "state": "CO",
+        "value": 2
+    },
+    {
+        "city": "Little Rock",
+        "state": "AR",
+        "value": 1
+    },
+    {
+        "city": "Glendale",
+        "state": "AZ",
+        "value": 1
+    },
+    {
+        "city": "San Bruno",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Provo",
+        "state": "UT",
+        "value": 1
+    },
+    {
+        "city": "Mount Arlington",
+        "state": "NJ",
+        "value": 1
+    },
+    {
+        "city": "Wichita",
+        "state": "KS",
+        "value": 1
+    },
+    {
+        "city": "Redmond",
+        "state": "WA",
+        "value": 1
+    },
+    {
+        "city": "Knoxville",
+        "state": "TN",
+        "value": 1
+    },
+    {
+        "city": "Las Vegas",
+        "state": "NV",
+        "value": 1
+    },
+    {
+        "city": "Gunnison",
+        "state": "CO",
+        "value": 1
+    },
+    {
+        "city": "Santa Fe",
+        "state": "NM",
+        "value": 1
+    },
+    {
+        "city": "Warrendale",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "Jacksonville",
+        "state": "FL",
+        "value": 1
+    },
+    {
+        "city": "Woodinville",
+        "state": "WA",
+        "value": 1
+    },
+    {
+        "city": "Emeryville",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Oak Harbor",
+        "state": "WA",
+        "value": 1
+    },
+    {
+        "city": "Oneonta",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Industry",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Reno",
+        "state": "NV",
+        "value": 1
+    },
+    {
+        "city": "Lake Bluff",
+        "state": "IL",
+        "value": 1
+    },
+    {
+        "city": "Sherman Oaks",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Glastonbury",
+        "state": "CT",
+        "value": 1
+    },
+    {
+        "city": "Stillwater",
+        "state": "MN",
+        "value": 1
+    },
+    {
+        "city": "Coraopolis",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "Carmel",
+        "state": "IN",
+        "value": 1
+    },
+    {
+        "city": "Charlottesville",
+        "state": "VA",
+        "value": 1
+    },
+    {
+        "city": "Riverside",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Woodstown",
+        "state": "NJ",
+        "value": 1
+    },
+    {
+        "city": "Hendersonville",
+        "state": "NC",
+        "value": 1
+    },
+    {
+        "city": "Mooresville",
+        "state": "NC",
+        "value": 1
+    },
+    {
+        "city": "Matawan",
+        "state": "NJ",
+        "value": 1
+    },
+    {
+        "city": "California City",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Richfield",
+        "state": "MN",
+        "value": 1
+    },
+    {
+        "city": "Owings Mills",
+        "state": "MD",
+        "value": 1
+    },
+    {
+        "city": "Auburn Hills",
+        "state": "MI",
+        "value": 1
+    },
+    {
+        "city": "Macedonia",
+        "state": "OH",
+        "value": 1
+    },
+    {
+        "city": "Aurora",
+        "state": "IL",
+        "value": 1
+    },
+    {
+        "city": "Lake Forest",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Neenah",
+        "state": "WI",
+        "value": 1
+    },
+    {
+        "city": "Santa Rosa",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Herndon",
+        "state": "VA",
+        "value": 1
+    },
+    {
+        "city": "Victorville",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Newmarket",
+        "state": "NH",
+        "value": 1
+    },
+    {
+        "city": "Oil City",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "Pompano Beach",
+        "state": "FL",
+        "value": 1
+    },
+    {
+        "city": "Stockton",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Gainesville",
+        "state": "TX",
+        "value": 1
+    },
+    {
+        "city": "Overland Park",
+        "state": "KS",
+        "value": 1
+    },
+    {
+        "city": "Spokane",
+        "state": "WA",
+        "value": 1
+    },
+    {
+        "city": "Gallup",
+        "state": "NM",
+        "value": 1
+    },
+    {
+        "city": "Fond du Lac",
+        "state": "WI",
+        "value": 1
+    },
+    {
+        "city": "Marin County",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Mequon",
+        "state": "WI",
+        "value": 1
+    },
+    {
+        "city": "Rockland",
+        "state": "MA",
+        "value": 1
+    },
+    {
+        "city": "Uxbridge",
+        "state": "MA",
+        "value": 1
+    },
+    {
+        "city": "Peoria",
+        "state": "IL",
+        "value": 1
+    },
+    {
+        "city": "New York City",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Mendota Heights",
+        "state": "MN",
+        "value": 1
+    },
+    {
+        "city": "Manhattan Beach",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Saint Paul",
+        "state": "MN",
+        "value": 1
+    },
+    {
+        "city": "Monrovia",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Half Moon Bay",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Novi",
+        "state": "MI",
+        "value": 1
+    },
+    {
+        "city": "Frederick",
+        "state": "MD",
+        "value": 1
+    },
+    {
+        "city": "Cottage Grove",
+        "state": "MN",
+        "value": 1
+    },
+    {
+        "city": "Waltham",
+        "state": "MA",
+        "value": 1
+    },
+    {
+        "city": "Sumner",
+        "state": "WI",
+        "value": 1
+    },
+    {
+        "city": "Chapel Hill",
+        "state": "NC",
+        "value": 1
+    },
+    {
+        "city": "Deerfield",
+        "state": "IL",
+        "value": 1
+    },
+    {
+        "city": "Pasadena",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Maryland",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Santa Ana",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Collierville",
+        "state": "TN",
+        "value": 1
+    },
+    {
+        "city": "Bellaire",
+        "state": "TX",
+        "value": 1
+    },
+    {
+        "city": "Oklahoma City",
+        "state": "OK",
+        "value": 1
+    },
+    {
+        "city": "Charleston",
+        "state": "SC",
+        "value": 1
+    },
+    {
+        "city": "Martin",
+        "state": "TN",
+        "value": 1
+    },
+    {
+        "city": "Bowie",
+        "state": "MD",
+        "value": 1
+    },
+    {
+        "city": "Tye",
+        "state": "TX",
+        "value": 1
+    },
+    {
+        "city": "West Lafayette",
+        "state": "IN",
+        "value": 1
+    },
+    {
+        "city": "Newark",
+        "state": "DE",
+        "value": 1
+    },
+    {
+        "city": "Laguna Hills",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Center Valley",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "Davidson",
+        "state": "NC",
+        "value": 1
+    },
+    {
+        "city": "Bedford",
+        "state": "NH",
+        "value": 1
+    },
+    {
+        "city": "Denton",
+        "state": "TX",
+        "value": 1
+    },
+    {
+        "city": "Florida",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Saint Charles",
+        "state": "MO",
+        "value": 1
+    },
+    {
+        "city": "Southfield",
+        "state": "MI",
+        "value": 1
+    },
+    {
+        "city": "La Jolla",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Chatsworth",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Berlin",
+        "state": "CT",
+        "value": 1
+    },
+    {
+        "city": "Metairie",
+        "state": "LA",
+        "value": 1
+    },
+    {
+        "city": "New Hartford",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Anniston",
+        "state": "AL",
+        "value": 1
+    },
+    {
+        "city": "Fort Meade",
+        "state": "MD",
+        "value": 1
+    },
+    {
+        "city": "Cupertino",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Sapulpa",
+        "state": "OK",
+        "value": 1
+    },
+    {
+        "city": "Ridgeland",
+        "state": "MS",
+        "value": 1
+    },
+    {
+        "city": "Glen Allen",
+        "state": "VA",
+        "value": 1
+    },
+    {
+        "city": "Lafayette",
+        "state": "LA",
+        "value": 1
+    },
+    {
+        "city": "Colima",
+        "state": "GA",
+        "value": 1
+    },
+    {
+        "city": "Smithfield",
+        "state": "RI",
+        "value": 1
+    },
+    {
+        "city": "Arkansas City",
+        "state": "AR",
+        "value": 1
+    },
+    {
+        "city": "Weehawken",
+        "state": "NJ",
+        "value": 1
+    },
+    {
+        "city": "Katy",
+        "state": "TX",
+        "value": 1
+    },
+    {
+        "city": "Alameda",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Cataño",
+        "state": "PR",
+        "value": 1
+    },
+    {
+        "city": "Gold River",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Tysons Corner",
+        "state": "VA",
+        "value": 1
+    },
+    {
+        "city": "Madison",
+        "state": "WI",
+        "value": 1
+    },
+    {
+        "city": "Moorhead",
+        "state": "MN",
+        "value": 1
+    },
+    {
+        "city": "Wilmington",
+        "state": "IL",
+        "value": 1
+    },
+    {
+        "city": "Holland",
+        "state": "MI",
+        "value": 1
+    },
+    {
+        "city": "Portsmouth",
+        "state": "NH",
+        "value": 1
+    },
+    {
+        "city": "Farmingdale",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Orange County",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Tacoma",
+        "state": "WA",
+        "value": 1
+    },
+    {
+        "city": "Lisle",
+        "state": "IL",
+        "value": 1
+    },
+    {
+        "city": "Jamaica",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Cheektowaga",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Syracuse",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Littleton",
+        "state": "CO",
+        "value": 1
+    },
+    {
+        "city": "Alpharetta",
+        "state": "GA",
+        "value": 1
+    },
+    {
+        "city": "Raleigh-Durham",
+        "state": "NC",
+        "value": 1
+    },
+    {
+        "city": "Akron",
+        "state": "OH",
+        "value": 1
+    },
+    {
+        "city": "Harrisburg",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "Baton Rouge",
+        "state": "LA",
+        "value": 1
+    },
+    {
+        "city": "Butler",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "United",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "San Leandro",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Cary",
+        "state": "NC",
+        "value": 1
+    },
+    {
+        "city": "Tamuning",
+        "state": "GU",
+        "value": 1
+    },
+    {
+        "city": "Plymouth",
+        "state": "MN",
+        "value": 1
+    },
+    {
+        "city": "Hollywood",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Matamoras",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "Wheat Ridge",
+        "state": "CO",
+        "value": 1
+    },
+    {
+        "city": "Doylestown",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "Lumberton",
+        "state": "NJ",
+        "value": 1
+    },
+    {
+        "city": "Forest",
+        "state": "VA",
+        "value": 1
+    },
+    {
+        "city": "West Palm Beach",
+        "state": "FL",
+        "value": 1
+    },
+    {
+        "city": "Montclair",
+        "state": "NJ",
+        "value": 1
+    },
+    {
+        "city": "Albany",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Hoschton",
+        "state": "GA",
+        "value": 1
+    },
+    {
+        "city": "Township of Plainsboro",
+        "state": "NJ",
+        "value": 1
+    },
+    {
+        "city": "Palatine",
+        "state": "IL",
+        "value": 1
+    },
+    {
+        "city": "Linthicum Heights",
+        "state": "MD",
+        "value": 1
+    },
+    {
+        "city": "Coon Rapids",
+        "state": "MN",
+        "value": 1
+    },
+    {
+        "city": "Augusta",
+        "state": "GA",
+        "value": 1
+    },
+    {
+        "city": "West Springfield",
+        "state": "MA",
+        "value": 1
+    },
+    {
+        "city": "Fort Wayne",
+        "state": "IN",
+        "value": 1
+    },
+    {
+        "city": "Okay",
+        "state": "OK",
+        "value": 1
+    },
+    {
+        "city": "Brookline",
+        "state": "MA",
+        "value": 1
+    },
+    {
+        "city": "Encino",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Winston-Salem",
+        "state": "NC",
+        "value": 1
+    },
+    {
+        "city": "Merced",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Lewiston",
+        "state": "ME",
+        "value": 1
+    },
+    {
+        "city": "McKinney",
+        "state": "TX",
+        "value": 1
+    },
+    {
+        "city": "Missoula",
+        "state": "MT",
+        "value": 1
+    },
+    {
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "value": 1
+    },
+    {
+        "city": "Paradise Valley",
+        "state": "AZ",
+        "value": 1
+    },
+    {
+        "city": "Norcross",
+        "state": "GA",
+        "value": 1
+    },
+    {
+        "city": "Burlingame",
+        "state": "CA",
+        "value": 1
+    },
+    {
+        "city": "Carrollton",
+        "state": "KY",
+        "value": 1
+    },
+    {
+        "city": "Lambertville",
+        "state": "NJ",
+        "value": 1
+    },
+    {
+        "city": "Lehi",
+        "state": "UT",
+        "value": 1
+    },
+    {
+        "city": "Brentwood",
+        "state": "TN",
+        "value": 1
+    },
+    {
+        "city": "West Des Moines",
+        "state": "IA",
+        "value": 1
+    },
+    {
+        "city": "Norfolk",
+        "state": "VA",
+        "value": 1
+    },
+    {
+        "city": "Columbus",
+        "state": "OH",
+        "value": 1
+    },
+    {
+        "city": "Reynoldsburg",
+        "state": "OH",
+        "value": 1
+    },
+    {
+        "city": "Schaumburg",
+        "state": "IL",
+        "value": 1
+    },
+    {
+        "city": "Clewiston",
+        "state": "FL",
+        "value": 1
+    },
+    {
+        "city": "Dallas-Fort Worth",
+        "state": "TX",
+        "value": 1
+    },
+    {
+        "city": "Des Moines",
+        "state": "IA",
+        "value": 1
+    },
+    {
+        "city": "Madison Heights",
+        "state": "MI",
+        "value": 1
+    },
+    {
+        "city": "La Vergne",
+        "state": "TN",
+        "value": 1
+    },
+    {
+        "city": "Rogers",
+        "state": "AR",
+        "value": 1
+    },
+    {
+        "city": "Hawley",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "Cassville",
+        "state": "MO",
+        "value": 1
+    },
+    {
+        "city": "Conshohocken",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "Belgrade",
+        "state": "MT",
+        "value": 1
+    },
+    {
+        "city": "Cottonwood",
+        "state": "AZ",
+        "value": 1
+    },
+    {
+        "city": "Lancaster",
+        "state": "PA",
+        "value": 1
+    },
+    {
+        "city": "Scottsdale",
+        "state": "AZ",
+        "value": 1
+    },
+    {
+        "city": "Burnsville",
+        "state": "MN",
+        "value": 1
+    },
+    {
+        "city": "Ohio",
+        "state": "NY",
+        "value": 1
+    },
+    {
+        "city": "Frisco",
+        "state": "TX",
+        "value": 1
+    },
+    {
+        "city": "Rochester",
+        "state": "NY",
+        "value": 1
+    }
+]
