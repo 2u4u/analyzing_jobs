@@ -1,0 +1,21 @@
+{
+  "name": "pars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parse": "node parse",
+    "analyze": "node analyze"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "cheerio": "^1.0.0-rc.2",
+    "needle": "^2.2.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "tress": "^1.1.4"
+  },
+  "description": ""
+}
