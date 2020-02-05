@@ -5,7 +5,6 @@ const tress = require('tress');
 const fs = require("fs");
 
 const BASIC_SEARCH_URL = 'https://www.indeed.com/jobs?q=Front-End&l=United+States';
-// https://ca.indeed.com/jobs?q=front+end&l=Canada
 
 let urlList = [];
 let jobsDescriptions = [];
